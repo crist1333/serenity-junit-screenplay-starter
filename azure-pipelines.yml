@@ -105,15 +105,6 @@ class ApiTest {
     }  
 }
   displayName: 'Run a one-line script'
-  creado
-{
-    "status": "success",
-    "data": {
-        "name": "Cristian David",
-        "salary": "20000",
-        "age": "31",
-        "id": 6350
-    },
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
